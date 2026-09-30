@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.playvids.llamadaslocation",
+      "sha256_cert_fingerprints": [
+        "B3:5D:C1:ED:05:2D:29:9F:1E:FD:9A:14:69:FA:5A:E9:66:F8:68:4D:46:96:8F:89:F6:76:56:09:1A:6A:CC:B0"
+      ]
+    }
+  }
+]
