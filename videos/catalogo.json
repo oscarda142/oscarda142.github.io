@@ -1,0 +1,51 @@
+[
+  {
+    "id": "primeros_pasos",
+    "titulo": "Primeros pasos y configuración de perfil",
+    "descripcion": "Datos personales, contacto de emergencia y canales de alerta.",
+    "url": "https://oscarda142.github.io/videos/primeros_pasos.mp4",
+    "bytes": 1746165
+  },
+  {
+    "id": "realizar_recorrido",
+    "titulo": "Realiza un recorrido",
+    "descripcion": "Buscar destino, confirmar coordenadas y elegir la duración.",
+    "url": "https://oscarda142.github.io/videos/realizar_recorrido.mp4",
+    "bytes": 1759439
+  },
+  {
+    "id": "su_recorrido",
+    "titulo": "Su recorrido",
+    "descripcion": "Pausar, continuar, guardar una observación y finalizar el viaje.",
+    "url": "https://oscarda142.github.io/videos/su_recorrido.mp4",
+    "bytes": 2269350
+  },
+  {
+    "id": "alertas_widget",
+    "titulo": "Mensajes de alerta y widget",
+    "descripcion": "Redactar un mensaje y conocer el botón de pánico.",
+    "url": "https://oscarda142.github.io/videos/alertas_widget.mp4",
+    "bytes": 1071373
+  },
+  {
+    "id": "herramientas",
+    "titulo": "Herramientas y permisos",
+    "descripcion": "Abrir una ruta, revisar permisos y elegir la SIM de mensajes.",
+    "url": "https://oscarda142.github.io/videos/herramientas.mp4",
+    "bytes": 748033
+  },
+  {
+    "id": "sincronizacion",
+    "titulo": "Sincronización con la web",
+    "descripcion": "Conectar la computadora y sincronizar los recorridos.",
+    "url": "https://oscarda142.github.io/videos/sincronizacion.mp4",
+    "bytes": 520204
+  },
+  {
+    "id": "mapas_imagen",
+    "titulo": "Mapas sin conexión e imagen del widget",
+    "descripcion": "Descargar mapas y personalizar la imagen del widget.",
+    "url": "https://oscarda142.github.io/videos/mapas_imagen.mp4",
+    "bytes": 1666150
+  }
+]
