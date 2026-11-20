@@ -3,56 +3,72 @@
     "id": "primeros_pasos",
     "titulo": "Primeros pasos y configuración de perfil",
     "descripcion": "Datos personales, contacto de emergencia y canales de alerta.",
-    "url": "https://oscarda142.github.io/videos/primeros_pasos_21139.mp4",
-    "bytes": 985440
+    "url": "https://oscarda142.github.io/videos/primeros_pasos_21140.mp4",
+    "bytes": 2084411,
+    "version": "2.11.40",
+    "audio": true
   },
   {
     "id": "realizar_recorrido",
     "titulo": "Realiza un recorrido",
     "descripcion": "Buscar destino, confirmar coordenadas y elegir la duración.",
-    "url": "https://oscarda142.github.io/videos/realizar_recorrido_21139.mp4",
-    "bytes": 1006182
+    "url": "https://oscarda142.github.io/videos/realizar_recorrido_21140.mp4",
+    "bytes": 2028783,
+    "version": "2.11.40",
+    "audio": true
   },
   {
     "id": "su_recorrido",
     "titulo": "Su recorrido",
     "descripcion": "Pausar, continuar, guardar una observación y finalizar el viaje.",
-    "url": "https://oscarda142.github.io/videos/su_recorrido_21139.mp4",
-    "bytes": 1265023
+    "url": "https://oscarda142.github.io/videos/su_recorrido_21140.mp4",
+    "bytes": 1783527,
+    "version": "2.11.40",
+    "audio": true
   },
   {
     "id": "alertas_widget",
     "titulo": "Mensajes de alerta y widget",
     "descripcion": "Redactar un mensaje y conocer el botón de pánico.",
-    "url": "https://oscarda142.github.io/videos/alertas_widget_21139.mp4",
-    "bytes": 641532
+    "url": "https://oscarda142.github.io/videos/alertas_widget_21140.mp4",
+    "bytes": 1587115,
+    "version": "2.11.40",
+    "audio": true
   },
   {
     "id": "herramientas",
     "titulo": "Herramientas y permisos",
     "descripcion": "Abrir una ruta, revisar permisos y elegir la SIM de mensajes.",
-    "url": "https://oscarda142.github.io/videos/herramientas_21139.mp4",
-    "bytes": 619262
+    "url": "https://oscarda142.github.io/videos/herramientas_21140.mp4",
+    "bytes": 1041863,
+    "version": "2.11.40",
+    "audio": true
   },
   {
     "id": "sincronizacion",
     "titulo": "Sincronización con la web",
     "descripcion": "Conectar la computadora y sincronizar los recorridos.",
-    "url": "https://oscarda142.github.io/videos/sincronizacion_21139.mp4",
-    "bytes": 484856
+    "url": "https://oscarda142.github.io/videos/sincronizacion_21140.mp4",
+    "bytes": 928011,
+    "version": "2.11.40",
+    "audio": true
   },
   {
     "id": "mapas_imagen",
     "titulo": "Mapas sin conexión e imagen del widget",
     "descripcion": "Descargar mapas y personalizar la imagen del widget.",
-    "url": "https://oscarda142.github.io/videos/mapas_imagen_21139.mp4",
-    "bytes": 836839
+    "url": "https://oscarda142.github.io/videos/mapas_imagen_21140.mp4",
+    "bytes": 1877086,
+    "version": "2.11.40",
+    "audio": true
   },
   {
     "id": "videos_ayuda",
     "titulo": "Videos y ayuda",
     "descripcion": "Descargar, ver y eliminar tutoriales; consultar el manual y Guíame.",
-    "url": "https://oscarda142.github.io/videos/videos_ayuda_21139.mp4",
-    "bytes": 1812158
+    "url": "https://oscarda142.github.io/videos/videos_ayuda_21140.mp4",
+    "bytes": 4171853,
+    "version": "2.11.40",
+    "audio": true
   }
 ]
