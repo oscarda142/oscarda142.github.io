@@ -11,10 +11,10 @@
   {
     "id": "realizar_recorrido",
     "titulo": "Realiza un recorrido",
-    "descripcion": "Buscar destino, confirmar coordenadas y elegir la duración.",
-    "url": "https://oscarda142.github.io/videos/realizar_recorrido_21140.mp4",
-    "bytes": 2028783,
-    "version": "2.11.40",
+    "descripcion": "Buscar y seleccionar el destino, confirmar coordenadas y elegir la duración.",
+    "url": "https://oscarda142.github.io/videos/realizar_recorrido_21141.mp4",
+    "bytes": 2837436,
+    "version": "2.11.41",
     "audio": true
   },
   {
@@ -56,10 +56,10 @@
   {
     "id": "mapas_imagen",
     "titulo": "Mapas sin conexión e imagen del widget",
-    "descripcion": "Descargar mapas y personalizar la imagen del widget.",
-    "url": "https://oscarda142.github.io/videos/mapas_imagen_21140.mp4",
-    "bytes": 1877086,
-    "version": "2.11.40",
+    "descripcion": "Descargar mapas, elegir una imagen y añadir el widget a Inicio de Android.",
+    "url": "https://oscarda142.github.io/videos/mapas_imagen_21141.mp4",
+    "bytes": 2967109,
+    "version": "2.11.41",
     "audio": true
   },
   {
